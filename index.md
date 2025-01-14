@@ -1,7 +1,8 @@
 ---
 title: Hazel Astrid Kleinstuber
 ---
-tech resume: [Link](/tech/)
+tech resume: [Link](/tech/resume.md)
+customer service: [Link](/resume/cs.md)
 
 Welcome! I’m Hazel, a dynamic and multifaceted professional based in San Diego, CA. With over a decade of diverse experience in software development, education, entrepreneurship, and creative fields, I’m passionate about blending technical expertise with artistic expression to drive impactful results.
 
